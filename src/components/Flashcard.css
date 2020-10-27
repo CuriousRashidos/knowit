@@ -1,0 +1,12 @@
+.media {
+  height: 140px;
+}
+
+.root {
+  max-width: 345px;
+  transition: 1s;
+}
+
+.hide {
+  filter: blur(20px);
+}
